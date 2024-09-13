@@ -1,0 +1,14 @@
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.AssemblyInfoInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.AssemblyInfo.cs
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.csproj.CoreCompileInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\bin\Debug\net8.0\NEW mir.exe
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\bin\Debug\net8.0\NEW mir.deps.json
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\bin\Debug\net8.0\NEW mir.runtimeconfig.json
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\bin\Debug\net8.0\NEW mir.dll
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\bin\Debug\net8.0\NEW mir.pdb
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.dll
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\refint\NEW mir.dll
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.pdb
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\NEW mir.genruntimeconfig.cache
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\obj\Debug\net8.0\ref\NEW mir.dll

@@ -1,0 +1,14 @@
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.AssemblyInfoInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.AssemblyInfo.cs
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.csproj.CoreCompileInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.dll
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\refint\CONKCLOTOR.dll
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.pdb
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\bin\Debug\net8.0\CONKCLOTOR.exe
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\bin\Debug\net8.0\CONKCLOTOR.deps.json
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\bin\Debug\net8.0\CONKCLOTOR.runtimeconfig.json
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\bin\Debug\net8.0\CONKCLOTOR.dll
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\bin\Debug\net8.0\CONKCLOTOR.pdb
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\CONKCLOTOR.genruntimeconfig.cache
+C:\Users\Bunyod\OneDrive\Desktop\Mohirdev\NEW mir\CONKCLOTOR\obj\Debug\net8.0\ref\CONKCLOTOR.dll

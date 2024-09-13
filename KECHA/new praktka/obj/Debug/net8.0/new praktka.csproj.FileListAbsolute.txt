@@ -1,0 +1,14 @@
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\bin\Debug\net8.0\new praktka.exe
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\bin\Debug\net8.0\new praktka.deps.json
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\bin\Debug\net8.0\new praktka.runtimeconfig.json
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\bin\Debug\net8.0\new praktka.dll
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\bin\Debug\net8.0\new praktka.pdb
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.AssemblyInfoInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.AssemblyInfo.cs
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.csproj.CoreCompileInputs.cache
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.dll
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\refint\new praktka.dll
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.pdb
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\new praktka.genruntimeconfig.cache
+C:\Users\Bunyod\OneDrive\Desktop\Test\new praktka\obj\Debug\net8.0\ref\new praktka.dll
