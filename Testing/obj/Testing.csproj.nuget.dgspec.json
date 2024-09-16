@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bunyod\\OneDrive\\Desktop\\Testing\\Testing.csproj": {}
+    "C:\\Users\\Bunyod\\OneDrive\\Desktop\\TEsting\\TEsting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bunyod\\OneDrive\\Desktop\\Testing\\Testing.csproj": {
+    "C:\\Users\\Bunyod\\OneDrive\\Desktop\\TEsting\\TEsting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bunyod\\OneDrive\\Desktop\\Testing\\Testing.csproj",
-        "projectName": "Testing",
-        "projectPath": "C:\\Users\\Bunyod\\OneDrive\\Desktop\\Testing\\Testing.csproj",
+        "projectUniqueName": "C:\\Users\\Bunyod\\OneDrive\\Desktop\\TEsting\\TEsting.csproj",
+        "projectName": "TEsting",
+        "projectPath": "C:\\Users\\Bunyod\\OneDrive\\Desktop\\TEsting\\TEsting.csproj",
         "packagesPath": "C:\\Users\\Bunyod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bunyod\\OneDrive\\Desktop\\Testing\\obj\\",
+        "outputPath": "C:\\Users\\Bunyod\\OneDrive\\Desktop\\TEsting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bunyod\\AppData\\Roaming\\NuGet\\NuGet.Config",
